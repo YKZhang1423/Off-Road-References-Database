@@ -1,1 +1,1 @@
-This is the literature summary and keyword statistics of "Autonomous Driving Perception in Unstructured Roads and Terrains: From On-Road to Off-Road Scenarios".
+This repository provides a literature review and keyword analysis for “Autonomous Driving Perception in Unstructured Roads and Terrains: From On-Road to Off-Road Scenarios.”
